@@ -27,8 +27,8 @@
       <div class="wrapper">
          <header class="main-header">
             <a href="index2.html" class="logo">
-               <span class="logo-mini"><b>Admin</b>Panel</span>
-               <span class="logo-lg"><b>Admin</b>Panel</span>
+               <span class="logo-mini"><img src="<?=base_url()?>assets/img/icon.png" class="img-responsive"></span>
+               <span class="logo-lg"><img src="<?=base_url()?>assets/img/logo.jpg" class="img-responsive"></span>
             </a>
             <nav class="navbar navbar-static-top" role="navigation">
                <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
