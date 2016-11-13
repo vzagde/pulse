@@ -38,18 +38,12 @@
                   <ul class="nav navbar-nav">
                      <li class="dropdown user user-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                           <img src="<?php echo base_url()?>/assets/img/user.jpg" class="user-image" alt="User Image">
-                           <span class="hidden-xs">
-                              Administrator
+                           <span class="hidden-xs fa fa-search">
                            </span>
                         </a>
                         <ul class="dropdown-menu">
                            <li class="user-header">
-                              <img src="<?php echo base_url()?>/assets/img/user.jpg" class="img-circle" alt="User Image">
-                              <p>
-                                 Administrator
-                                 <small>Member since Nov. 2012</small>
-                              </p>
+                            <span class="hidden-xs fa fa-search"></span>
                            </li>
                            <li class="user-footer">
                               <div class="pull-right">
