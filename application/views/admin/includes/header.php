@@ -38,17 +38,17 @@
                   <ul class="nav navbar-nav">
                      <li class="dropdown user user-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                           <span class="hidden-xs fa fa-search">
-                           </span>
+                           <!-- <span class="hidden-xs fa fa-search">
+                           </span> -->
                         </a>
                         <ul class="dropdown-menu">
                            <li class="user-header">
-                            <span class="hidden-xs fa fa-search"></span>
+                            <span class="hidden-xs fa fa-search">
+                            </span>
                            </li>
-                           <li class="user-footer">
-                              <div class="pull-right">
-                                 <a href="<?php echo base_url()?>auth/logout" class="btn btn-default btn-flat">Sign out</a>
-                              </div>
+                           <li class="user-header">
+                            <span class="hidden-xs fa fa-bell-o">
+                            </span>
                            </li>
                         </ul>
                      </li>
